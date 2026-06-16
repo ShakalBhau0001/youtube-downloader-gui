@@ -22,7 +22,7 @@ All operations run **fully locally** — no accounts, no tracking, and no backgr
 
 If you prefer terminal workflows and command-line automation:
 
-👉 **CLI Repository:** https://github.com/ShakalBhau0001/youtube-downloader-cli
+👉 > **🔗 GUI Repository: [youtube-downloader-cli](https://github.com/ShakalBhau0001/youtube-downloader-cli)**
 
 ---
 
@@ -154,12 +154,6 @@ The application uses a sidebar-driven navigation system built with CustomTkinter
 youtube-downloader-gui/
 │
 ├── assets/
-│   ├── Audio.png
-│   ├── Video.png
-│   ├── D-Audio.png
-│   ├── D-Video.png
-│   └── Info.png
-│
 ├── core/
 │   ├── __init__.py
 │   └── downloader.py
@@ -320,21 +314,24 @@ python main.py
 
 ## ⚠️ Disclaimer
 
-This project is intended for **personal, educational, and research use only**.
+> This project is intended for **personal, educational, and research use only**.
+> _**Downloading copyrighted content without permission may violate YouTube's Terms of Service.**_
+> The developer is **not responsible** for misuse of this application.
+> **Always respect content creators and platform policies.**
 
-Downloading copyrighted content without permission may violate YouTube's Terms of Service.
+---
 
-The developer is **not responsible** for misuse of this application.
+## 📸 Preview
 
-Always respect content creators and platform policies.
+![Rich CLI Preview](assets/screenshot.png)
 
 ---
 
 ## 🪪 Author
 
-**Developer:** Shakalen Shaikh
+> **Developer: Shakal Bhau**
 
-**GitHub:** https://github.com/ShakalBhau0001
+> **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
 ---
 
