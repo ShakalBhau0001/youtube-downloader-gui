@@ -323,7 +323,29 @@ python main.py
 
 ## 📸 Preview
 
-![Rich CLI Preview](assets/screenshot.png)
+### 1. Video Panel
+
+![Rich CLI Preview](assets/Video.png)
+
+### 2. Download Video
+
+![Rich CLI Preview](assets/D-Video.png)
+
+### 3. Audio Panel
+
+![Rich CLI Preview](assets/Audio.png)
+
+### 4. Download Audio
+
+![Rich CLI Preview](assets/D-Audio.png)
+
+### 5. Info Panel
+
+![Rich CLI Preview](assets/Info.png)
+
+### 6. About Panel
+
+![Rich CLI Preview](assets/About.png)
 
 ---
 
